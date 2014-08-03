@@ -17,7 +17,7 @@ group :production do
   gem 'rails_12factor'
 end
 =======
-gem 'sqlite3'
+
 >>>>>>> 9ee1bfc89291f75d02f23e0d2dc9798a3a5d07d2
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
